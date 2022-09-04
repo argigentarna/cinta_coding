@@ -1,0 +1,4 @@
+#Sat Sep 03 10:36:58 WIB 2022
+base.0=/Users/argigentarna/Documents/Development/cinta_coding/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

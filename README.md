@@ -1,16 +1,22 @@
 # cinta_coding
 
-A new Flutter project.
+## Install Flutter
+https://docs.flutter.dev/get-started/install?gclid=Cj0KCQjwmdGYBhDRARIsABmSEeNWGb_cUg3CN5B0DV4grhIZXoQI2tX34pZPSfL1w8bcEHRVY0hguVIaAqxuEALw_wcB&gclsrc=aw.ds
 
-## Getting Started
+## Download Code Editor
+https://code.visualstudio.com
 
-This project is a starting point for a Flutter application.
+## Install Extension on VS Code
+Dart
+Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## Running app
+Untuk running app, setelah flutter berhasil diinstall
+jalankan diterminal :
+flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Untuk build app, jalankan diterminal :
+flutter build apk
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Login App
+Untuk login app, gunakan password random atau isi apa saja
